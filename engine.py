@@ -9,7 +9,7 @@ import matplotlib.pyplot as plt
 model.summary()
 
 model.compile(loss = 'categorical_crossentropy', optimizer='rmsprop', metrics=['accuracy'])
-history = model.fit_generator(train, epochs=5, validation_data = test, verbose = 1)
+history = model.fit_generator(train, epochs=25, validation_data = test, verbose = 1)
 
 acc = history.history['accuracy']
 val_acc = history.history['val_accuracy']
