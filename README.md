@@ -16,7 +16,7 @@ Then Run it with no arguments
 $ python model.py
 $ python engine.py
 ```
-There is also an Optimized Jupyter notebook added integerated with TensorBoard for better evalutaing and understanding. [ HERE !](https://www.kaggle.com/muhammadusmanfarooq/optimized-intel-image-classification/edit)
+There is also an Optimized Jupyter notebook added integerated with TensorBoard for better evalutaing and understanding. [ HERE !](https://www.kaggle.com/muhammadusmanfarooq/optimized-intel-image-classification)
 
 ## Learning
 
