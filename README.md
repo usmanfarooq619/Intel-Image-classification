@@ -16,12 +16,14 @@ Then Run it with no arguments
 $ python model.py
 $ python engine.py
 ```
-There is also an Optimized Jupyter notebook added integerated with TensorBoard for better evalutaing and understanding.
+There is also an Optimized Jupyter notebook added integerated with TensorBoard for better evalutaing and understanding. [ HERE !](https://www.kaggle.com/muhammadusmanfarooq/optimized-intel-image-classification/edit)
 
 ## Learning
 
 Check out corresponding Medium article:
 [Image Classifier - Cats🐱 vs Dogs🐶](https://towardsdatascience.com/image-classifier-cats-vs-dogs-with-convolutional-neural-networks-cnns-and-google-colabs-4e9af21ae7a8)
+
+## Results
 
 
 
