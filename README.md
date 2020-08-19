@@ -25,7 +25,7 @@ Check out corresponding Medium article:
 
 ## Results
 
-
+![Optimized results](https://github.com/usmanfarooq619/Intel-Image-classification/blob/master/results.PNG)
 
 
 
